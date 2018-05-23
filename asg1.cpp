@@ -1,6 +1,6 @@
 // COP3014 Assignment 1
-// Author: <fill in your name here>
-// Date: <fill in the date you submitted this assignment here>
+// Author: <Fernando Zhu Yu>
+// Date: <May 22nd, 2018>
 //
 // Convert a temperature from celsius to fahrenheit.
 //
